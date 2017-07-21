@@ -25,3 +25,10 @@ npm-debug.log
 # secrets files as long as you replace their contents by environment
 # variables.
 /config/*.secret.exs
+
+# Elm artifacts
+/assets/elm/elm-stuff
+/assets/js/elm.js
+
+# Mac files
+.DS_Store
